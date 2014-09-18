@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Cinzel:400,700);
+
+.navbar {
+	border-radius:0;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	box-shadow: 0px 1px 3px #2a2a2a;
+	background:url('always_grey.png')
+}
+
+.navbar-inverse a.navbar-brand {
+	font-family: 'Cinzel', serif;
+	font-weight: 900;
+	color:white;
+}
