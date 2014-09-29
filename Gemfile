@@ -54,3 +54,5 @@ gem "fog", '~> 1.3.1'
 gem 'mini_magick'
 gem 'stripe'
 gem 'ranked-model'
+gem 'jquery-ui-rails'
+
